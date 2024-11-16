@@ -2,6 +2,16 @@
 
 This AWS Lambda function analyzes AWS cost data over a 6-month period and sends detailed cost analysis reports to Slack. It provides insights into service-wise cost comparisons, trends, and visualizations.
 
+## Sample Output
+
+### Cost Analysis Report
+
+![Cost Analysis Report](image.png)
+
+### Monthly Trend Visualization
+
+![Monthly Trend](image2.png)
+
 ## Features
 
 - 📊 Monthly cost analysis and comparison
